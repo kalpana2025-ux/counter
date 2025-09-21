@@ -9,16 +9,23 @@ This is a simple counter app built with React. It allows users to increase, decr
 - Reset to zero
 - Built using React functional components and hooks (`useState`)
 
-### Project Structure
-|----public/
-|    |----index.html
-|----src/
-|    |---Counter.jsx
-|    |---App.css
-|    |---index.css
-|    |---App.js
-|    |---index.js
-|----package.json
-|----README.md
-## 📦 Getting Started
+##  Project Structure
 
+```
+react-counter/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.js
+│   ├── App.css
+│   ├── Counter.jsx
+│   └── index.js
+├── package.json
+├── README.md
+└── .gitignore
+```
+
+**Built With**
+React
+JavaScript
+CSS
